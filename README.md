@@ -1,2 +1,3 @@
 # hello-world
-Test repository
+Just another programmer, trying to practice safe coding.
+
